@@ -75,9 +75,9 @@ public class RectangleSet {
 			System.out.print("\n\n");
 			Rect rect = new Rect();
 			rect.left = x;
-			rect.right = p-x;
+			rect.right = p;
+			rect.top = q;
 			rect.bottom = y;
-			rect.top = q-y;
 			
 			rects.add(rect);
 		}
