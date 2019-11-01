@@ -1,3 +1,7 @@
+/**
+* Source: https://codercareer.blogspot.com/2011/12/no-27-area-of-rectangles.html?showComment=1572597555375
+*/
+
 import java.util.Scanner;
 import java.util.ArrayList;
 import java.util.Collections;
